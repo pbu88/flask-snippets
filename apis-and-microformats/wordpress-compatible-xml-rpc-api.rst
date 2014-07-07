@@ -245,6 +245,3 @@ The api is accessible from '/api' and authorizes against a User object specified
         db.session.delete(post)
         db.session.commit()
         pass
-
-
-*This snippet can be used freely for anything you like. Consider it public domain.*

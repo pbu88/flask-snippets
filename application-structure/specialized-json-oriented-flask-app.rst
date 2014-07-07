@@ -38,6 +38,3 @@ Also note that ``make_json_error`` will be used when your code throws an arbitra
             app.error_handler_spec[None][code] = make_json_error
 
         return app
-
-
-*This snippet can be used freely for anything you like. Consider it public domain.*

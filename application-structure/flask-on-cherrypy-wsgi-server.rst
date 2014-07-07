@@ -35,8 +35,5 @@ The following snippet let you run the Flask app on top of the WSGI server shippe
 
 You can access the server running on 0.0.0.0:8080. WSGIPathInfoDispatcher take as argument a dictionary mapping a path to an application object, so you can easily deploy multiple (Flask) application on a single CherryPy server.
 
-
-*This snippet can be used freely for anything you like. Consider it public domain.*
-
 .. _CherryPy: http://www.cherrypy.org/
 .. _WSGI compliant server: http://www.cherrypy.org/wiki/WSGI

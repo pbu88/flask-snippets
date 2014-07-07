@@ -109,7 +109,4 @@ So how do you render such a pagination? Here is a simple macro that uses the ``i
       </div>
     {% endmacro %}
 
-
-*This snippet can be used freely for anything you like. Consider it public domain.*
-
 .. _Flask-SQLAlchemy: http://packages.python.org/Flask-SQLAlchemy/

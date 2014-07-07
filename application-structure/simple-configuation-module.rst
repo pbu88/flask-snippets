@@ -49,7 +49,4 @@ This makes it very easy to later change the name of the config filename, to load
 
 That way you can keep all your defaults the same, but provide overridden values as needed. The local_config module presumably would not be in your public repository.
 
-
-*This snippet can be used freely for anything you like. Consider it public domain.*
-
 .. _documentation: http://flask.pocoo.org/docs/patterns/packages/

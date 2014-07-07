@@ -36,5 +36,3 @@ I had been trying to verify paypal IPN using Flask. After researching a bit, i f
             print 'Paypal IPN string {arg} did not validate'.format(arg=verify_string)
              
         return jsonify({'status':'complete'})
-
-*This snippet can be used freely for anything you like. Consider it public domain.*

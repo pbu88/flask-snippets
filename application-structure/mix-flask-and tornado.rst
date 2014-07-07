@@ -41,6 +41,4 @@ and then the *cyclone.py* the file which will load the flask application and the
 based of `this stackoverflow answer`_
 
 
-*This snippet can be used freely for anything you like. Consider it public domain.*
-
 .. _this stackoverflow answer: http://stackoverflow.com/questions/8143141/using-flask-and-tornado-together/8247457#8247457

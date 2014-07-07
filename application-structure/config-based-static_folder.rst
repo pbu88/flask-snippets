@@ -36,8 +36,5 @@ However since the URL rule is still created in __init__ this only work for setti
     app = Flask(__name__)
     app.config['STATIC_FOLDER'] = None
 
-
-*This snippet can be used freely for anything you like. Consider it public domain.*
-
 .. _question on the mailing list: http://flask.pocoo.org/mailinglist/archive/2012/10/5/change-static-folder-from-configuration-file/
 .. _static_folder parameter: http://flask.pocoo.org/docs/api/#flask.Flask

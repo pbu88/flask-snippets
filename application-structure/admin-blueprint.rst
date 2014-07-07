@@ -32,6 +32,3 @@ Here is some boilerplate that leverages the power of Blueprints to separate the 
 This example makes use of Google App Engine's User API for authentication/authorization, but could easily be modified to support another authorization mechanism.
 
 You may also prefer to abort the request with a HTTP 403 (abort(403)) instead of returning the user back to the login page.
-
-
-*This snippet can be used freely for anything you like. Consider it public domain.*

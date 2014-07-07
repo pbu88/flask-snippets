@@ -41,6 +41,3 @@ To test if that works you can use the curl command line utility:
 .. code-block:: bash
 
     $ curl -H accept:application/json http://localhost:5000/
-
-
-*This snippet can be used freely for anything you like. Consider it public domain.*

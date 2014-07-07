@@ -49,5 +49,3 @@ or in your unit tests:
             self.app = create_app(config.TEST_DATABASE_URI)
             self.client = self.app.test_client()
 
-
-*This snippet can be used freely for anything you like. Consider it public domain.*

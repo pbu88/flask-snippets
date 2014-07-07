@@ -502,9 +502,6 @@ Further reading:
 **Comment:**
 The multi-threading capability of the Paste server is not compatible with Werkzeug Debugger. I've added settings to buildout.cfg to run a single thread in debug mode, and never kill the thread. The production mode is not affected. (See threadpool options 'workers', 'spawn_if_under' and 'max_requests')
 
-
-*This snippet can be used freely for anything you like. Consider it public domain.*
-
 .. _virtualenv: http://flask.pocoo.org/docs/installation/#virtualenv
 .. _zc.buildout: http://www.buildout.org/
 .. _Paste: http://pypi.python.org/pypi/Paste

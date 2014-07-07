@@ -48,7 +48,4 @@ To tell browsers about a feed on a page, you can embed the following code in the
 
 For more information, consult the Werkzeug documentation: `Atom Syndication`_.
 
-
-*This snippet can be used freely for anything you like. Consider it public domain.*
-
 .. _Atom Syndication: http://werkzeug.pocoo.org/docs/contrib/atom/
