@@ -1,0 +1,16 @@
+Flask-Snippets
+
+  This list contains snippets of code from other people have created for you
+  to use. Feel free to add snippets as well by making a Pull Request.
+
+  Convensions
+
+    A new snippet should be in the reStructuredText (.rst) format and must 
+    follow this style convension when being created.
+
+    title-of-the-snippet.rst
+
+      [TITLE OF THE SNIPPET]
+      ======================
+
+      [THE SNIPPET]
