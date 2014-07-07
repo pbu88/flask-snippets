@@ -3,6 +3,9 @@ Flask-Snippets
   This list contains snippets of code from other people have created for you
   to use. Feel free to add snippets as well by making a Pull Request.
 
+  By contributing snippets you agree to licensing the snippet under the
+  Creative Commons CC0 1.0 Universal license.
+
   Convensions
 
     A new snippet should be in the reStructuredText (.rst) format and must 
